@@ -1,4 +1,4 @@
-**Discord server: https://discord.gg/E7cmjUG9Gs**
+**Discord server: https://discord.gg/K5xUbuDqmG**
 
 # Blooket-Hack
 All of the cheats are based on a game mode.
