@@ -8,12 +8,8 @@ All of the cheats are based on a game mode.
 **scroll down for video tutorial**
 
 # How to run
-note: **TURN YOUR AD BLOCKER OFF OR IT WON'T WORK!**
 
-Bookmarklet Url:
-```js
-javascript:fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js").then(res=>res.text().then(t=>eval(t)))
-```
+note: **TURN YOUR AD BLOCKER OFF OR IT WON'T WORK!**
 
 Open console and paste this: 
 ```js
