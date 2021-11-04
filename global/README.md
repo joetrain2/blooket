@@ -8,7 +8,7 @@ note: **This cheat also includes adding max xp for the day**
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/joetrain2/blooket-hack/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # bypassRandomName.js
